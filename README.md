@@ -5,7 +5,7 @@
 下面是目录。  
 
 
-### Rust 编程语言
+### [Rust 编程语言](./the-rust-programming-languages.md)
 ### 前言
 ### 介绍
   
